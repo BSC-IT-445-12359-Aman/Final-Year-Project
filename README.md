@@ -1,4 +1,4 @@
-# AirClone - Final Year Project
+# TravelSathi - Final Year Project
 
 ## 📌 Project Description
 TravelSathi is a web-based application similar to Airbnb where users can explore, create, and manage travel listings. It also includes an admin panel for managing users and listings.
